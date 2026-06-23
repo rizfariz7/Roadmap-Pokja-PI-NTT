@@ -132,15 +132,6 @@ body {
 }
 
 .hero-emblem {
-  width: 90px;
-  height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-}
-
-.hero-emblem img {
   width: 100%;
   height: auto;
   display: block;
