@@ -132,9 +132,17 @@ body {
 }
 
 .hero-emblem {
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  flex-shrink: 0;
+}
+
+.hero-emblem img {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 100%;
   object-fit: contain;
 }
 
