@@ -132,16 +132,12 @@ body {
 }
 
 .hero-emblem {
-  width: 120px;
-  height: auto;
-  background: transparent;
-  border-radius: 0;
-  box-shadow: none;
+  width: 90px;
+  height: 90px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  overflow: visible;
 }
 
 .hero-emblem img {
@@ -150,6 +146,7 @@ body {
   display: block;
   object-fit: contain;
 }
+
 .hero-text {
   flex: 1;
 }
